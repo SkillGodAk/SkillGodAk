@@ -112,6 +112,4 @@
 
 <p align="center"><a href="https://github.com/SkillGodAk?tab=repositories"><b>→ 查看全部公開儲存庫</b></a></p>
 
----
-
-<a id="support"></a>
+<p align="center"><sub>以上皆為獨立第三方專案；特定平台與產品名稱僅用於說明適用範圍，不代表官方合作或背書。</sub></p>
