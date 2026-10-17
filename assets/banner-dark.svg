@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-label="SkillGodAk software tools banner">
+ <defs><linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#0B1221"/><stop offset="1" stop-color="#152C4C"/></linearGradient><linearGradient id="brand" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#4FD1C5"/><stop offset="1" stop-color="#708CFF"/></linearGradient><clipPath id="r"><rect width="1280" height="320" rx="26"/></clipPath></defs>
+ <g clip-path="url(#r)"><rect width="1280" height="320" fill="url(#bg)"/><circle cx="1170" cy="18" r="245" fill="none" stroke="#4DAEDE" opacity=".10" stroke-width="2"/><circle cx="1170" cy="18" r="187" fill="none" stroke="#4DAEDE" opacity=".12" stroke-width="2"/><circle cx="1170" cy="18" r="128" fill="none" stroke="#4DAEDE" opacity=".10" stroke-width="2"/>
+ <path d="M0 285 L680 285 M0 291 L680 291" stroke="#52CBBF" stroke-opacity=".15"/>
+ <rect x="48" y="45" width="68" height="68" rx="19" fill="url(#brand)"/><path d="M94 65 H75 Q67 65 67 75 Q67 85 77 85 H87 Q96 85 96 96 Q96 101 88 101 H69" fill="none" stroke="#0F1B2C" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+ <text x="136" y="78" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="5" fill="#AAC0DF">INDEPENDENT SOFTWARE</text>
+ <text x="47" y="176" font-family="DejaVu Sans, Arial, sans-serif" font-size="62" font-weight="700" letter-spacing="-3" fill="#F7FAFF">SkillGodAk</text>
+ <rect x="48" y="195" width="64" height="4" rx="2" fill="#4FD1C5"/><rect x="119" y="195" width="28" height="4" rx="2" fill="#708CFF"/>
+ <text x="48" y="233" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" fill="#AAC0DF">Practical tools. Better experiences.</text>
+ <text x="48" y="278" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" letter-spacing="2" fill="#87A2C7">WINDOWS     /     LINUX     /     ANDROID     /     WEB</text>
+ <g transform="translate(764 60)"><rect width="462" height="223" rx="18" fill="#141F34" stroke="#344868" stroke-width="1.5"/><rect width="462" height="44" rx="18" fill="#141F34"/><path d="M0 44 H462" stroke="#344868"/><circle cx="24" cy="23" r="5" fill="#F17B83"/><circle cx="42" cy="23" r="5" fill="#F5C16A"/><circle cx="60" cy="23" r="5" fill="#55D6AD"/><text x="87" y="28" font-size="13" font-family="monospace" fill="#AAC0DF">skillgodak / projects</text>
+ <text x="25" y="91" font-family="monospace" font-size="16" fill="#55C6B1">›</text><text x="49" y="91" font-family="monospace" font-size="16" fill="#F7FAFF">BUILD  ·  MEDIA TOOLS</text>
+ <text x="25" y="132" font-family="monospace" font-size="16" fill="#789AFF">›</text><text x="49" y="132" font-family="monospace" font-size="16" fill="#F7FAFF">OPTIMIZE  ·  PLAYBACK</text>
+ <text x="25" y="173" font-family="monospace" font-size="16" fill="#F3B875">›</text><text x="49" y="173" font-family="monospace" font-size="16" fill="#F7FAFF">IMPROVE  ·  EVERYDAY</text>
+ <rect x="26" y="192" width="87" height="4" rx="2" fill="#56D4BF"/><rect x="122" y="192" width="34" height="4" rx="2" fill="#708CFF"/>
+ </g></g></svg>
