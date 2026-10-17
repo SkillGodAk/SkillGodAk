@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="#featured">精選作品</a>　·　<a href="#projects">更多專案</a>　·　<a href="#support">支持開發</a>
+  <a href="#featured">精選作品</a>　·　<a href="#projects">更多專案</a>
 </p>
 
 ---
