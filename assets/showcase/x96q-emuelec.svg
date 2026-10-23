@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="320" viewBox="0 0 980 320" role="img" aria-label="X96Q Pro Plus H728 EmuELEC project artwork">
+ <defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0C172A"/><stop offset="1" stop-color="#1D2946"/></linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#63E2C1"/><stop offset="1" stop-color="#78A8FF"/></linearGradient>
+  <clipPath id="crop"><rect width="980" height="320" rx="20"/></clipPath>
+ </defs>
+ <g clip-path="url(#crop)">
+  <rect width="980" height="320" fill="url(#bg)"/>
+  <circle cx="804" cy="74" r="193" fill="#63E2C1" opacity=".055"/><circle cx="772" cy="286" r="142" fill="#78A8FF" opacity=".055"/>
+  <g fill="none" stroke="#63E2C1" opacity=".065">
+   <path d="M0 285 H980 M0 248 H980 M0 211 H980 M0 174 H980"/>
+   <path d="M550 0 V320 M600 0 V320 M650 0 V320 M700 0 V320 M750 0 V320 M800 0 V320 M850 0 V320 M900 0 V320"/>
+  </g>
+  <rect x="44" y="45" width="8" height="36" rx="4" fill="url(#accent)"/>
+  <text x="69" y="69" font-family="DejaVu Sans, Arial, sans-serif" font-weight="700" font-size="19" letter-spacing="2" fill="#63E2C1">TV BOX + GAMING</text>
+  <text x="44" y="151" font-family="DejaVu Sans, Arial, sans-serif" font-weight="700" font-size="48" fill="#F9FCFF">X96Q Pro+</text>
+  <text x="46" y="191" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" letter-spacing="1" fill="#B0C3E3">H728 · EMUELEC 4.8</text>
+  <rect x="46" y="236" width="65" height="6" rx="3" fill="#63E2C1"/><rect x="119" y="236" width="25" height="6" rx="3" fill="#78A8FF"/>
+  <rect x="559" y="57" width="354" height="214" rx="19" fill="#111D33" stroke="#465A78" stroke-width="5"/>
+  <rect x="581" y="79" width="310" height="166" rx="11" fill="#253757"/>
+  <path d="M656 176 C649 155 668 140 691 143 L781 143 C805 141 824 155 818 176 L810 198 C803 220 786 213 772 197 L702 197 C686 215 671 222 662 198 Z" fill="#162842" stroke="#63E2C1" stroke-width="5"/>
+  <path d="M698 164 V188 M686 176 H710" stroke="#78A8FF" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="772" cy="167" r="7" fill="#63E2C1"/><circle cx="792" cy="180" r="7" fill="#78A8FF"/>
+  <rect x="712" y="185" width="12" height="4" rx="2" fill="#B0C3E3"/><rect x="733" y="185" width="12" height="4" rx="2" fill="#B0C3E3"/>
+  <rect x="671" y="254" width="129" height="6" rx="3" fill="#465A78"/>
+ </g>
+</svg>
