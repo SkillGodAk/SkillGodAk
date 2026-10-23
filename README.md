@@ -20,15 +20,15 @@
 <a id="featured"></a>
 ## ✦ 精選作品 / Featured Projects
 
-從 Android TV 追劇、播放優化，到 Windows 影音工具與 Jellyfin 插件。點擊圖片或按鈕即可查看詳細介紹。
+從影音播放優化、影片處理到 Jellyfin 插件與電視盒系統整合。點擊圖片或按鈕即可查看詳細介紹。
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/SkillGodAk/HGTV"><img alt="HGTV 專案視覺圖" src="./assets/showcase/hgtv.svg" width="100%"></a>
-      <p><b><a href="https://github.com/SkillGodAk/HGTV">HGTV</a></b> · ANDROID TV</p>
-      <p>專為 Android TV 與電視盒設計，支援遙控器操作、播放紀錄與介面主題。</p>
-      <p><a href="https://github.com/SkillGodAk/HGTV"><img alt="查看專案" src="./assets/buttons/project.svg" height="28"></a> <a href="https://github.com/SkillGodAk/HGTV/releases/latest"><img alt="下載最新版本" src="./assets/buttons/download.svg" height="28"></a></p>
+      <a href="https://github.com/SkillGodAk/X96Q-ProPlus-H728-EmuELEC"><img alt="X96Q Pro+ H728 EmuELEC 專案視覺圖" src="./assets/showcase/x96q-emuelec.svg" width="100%"></a>
+      <p><b><a href="https://github.com/SkillGodAk/X96Q-ProPlus-H728-EmuELEC">X96Q Pro+ H728 EmuELEC</a></b> · TV BOX + GAMING</p>
+      <p>為 X96Q Pro+ H728 電視盒整合 EmuELEC 4.8，提供純 EmuELEC 與 Android 雙系統版本。</p>
+      <p><a href="https://github.com/SkillGodAk/X96Q-ProPlus-H728-EmuELEC"><img alt="查看專案" src="./assets/buttons/project.svg" height="28"></a> <a href="https://github.com/SkillGodAk/X96Q-ProPlus-H728-EmuELEC/releases/latest"><img alt="下載最新版本" src="./assets/buttons/download.svg" height="28"></a></p>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/SkillGodAk/DRO"><img alt="DRO 專案視覺圖" src="./assets/showcase/dro.svg" width="100%"></a>
@@ -93,10 +93,9 @@
 </details>
 
 <details>
-<summary><b>📱 Android 與電視</b> — 2 個專案</summary>
+<summary><b>📱 Android 工具</b> — 1 個專案</summary>
 
 - [Nivqo](https://github.com/SkillGodAk/Nivqo) — Facebook／Messenger 中文化與功能整合
-- [HGTV](https://github.com/SkillGodAk/HGTV) — Android TV 追劇 App
 
 </details>
 
